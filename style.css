@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 130vh;
+  height: 80%;
   overflow: hidden;
   margin: 0;
 }
